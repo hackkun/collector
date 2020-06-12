@@ -38,7 +38,7 @@
 - 用户通过什么入口来访问该网页
 - 用户在相应的页面中触发的行为
 
-![上报的数据](https://user-gold-cdn.xitu.io/2018/8/2/164fa1642bb839ad?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+<!-- ![上报的数据](https://user-gold-cdn.xitu.io/2018/8/2/164fa1642bb839ad?imageView2/0/w/1280/h/960/format/webp/ignore-error/1) -->
 
 ## 性能监控
 
@@ -77,7 +77,7 @@
 * 页面进入 & 页面退出
 * 按钮点击 / 链接点击
   > 停留时长、转化率、热力图
-* 热力图：用于反映图中点的密集程度，在此处我们利用点击的坐标（点击的 x,y 坐标位置，再根据屏幕分辨率做一致性的换算）组合成点击热图，![如下图所示](https://user-gold-cdn.xitu.io/2020/2/9/17028dd47bd7ddf9?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+<!-- * 热力图：用于反映图中点的密集程度，在此处我们利用点击的坐标（点击的 x,y 坐标位置，再根据屏幕分辨率做一致性的换算）组合成点击热图，![如下图所示](https://user-gold-cdn.xitu.io/2020/2/9/17028dd47bd7ddf9?imageView2/0/w/1280/h/960/format/webp/ignore-error/1) -->
 
 ```
 // 统一拦截ajax请求
